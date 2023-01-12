@@ -1,2 +1,2 @@
 # EmployeeManagement
-CRUD Application to manage employees, build using Java Swing Window Builder
+CRUD Application to manage employees, built using Java Swing Window Builder
